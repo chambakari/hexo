@@ -46,7 +46,8 @@ Git是目前世界上最先进的开源的**分布式**版本控制系统。
 	git log --pretty=oneline: 清爽版
 回退方法两种：  
 1、HEAD
-HEAD表示当前版本，HEAD^上一版本，HEAD^^上上一版本，HEAD~100上第100版本。 
+HEAD表示当前版本，HEAD^上一版本，HEAD^^上上一版本，HEAD~100上第100版本。  
+ 
 	git reset --hard HEAD^
 2、commit id  
 

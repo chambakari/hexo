@@ -9,7 +9,8 @@ categories:
 
 原文请见: [某人说我技术宅](http://1992mrwang.blog.51cto.com/3265935/1123023)
 
-今天使用了bootstrap 当中的一些CSS 对自己的博客项目当中的一些东西进行美化， 但是很奇怪的是当加入中文字符后， 就会提示 **UnicodeDecodeError** 错误， 很明显就是字符问题， 而最终解决的方案就是 在 settings.py 文件当中加入：
+今天使用了bootstrap 当中的一些CSS 对自己的博客项目当中的一些东西进行美化， 但是很奇怪的是当加入中文字符后， 就会提示 **UnicodeDecodeError** 错误， 很明显就是字符问题， 而最终解决的方案就是 在 settings.py 文件当中加入：  
+<!-- more -->  
 
     FILE_CHARSET='gb18030' 
     DEFAULT_CHARSET='utf-8' `</pre>

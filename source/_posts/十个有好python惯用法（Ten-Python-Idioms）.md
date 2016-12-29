@@ -28,6 +28,7 @@ categories:
     &gt;&gt;&gt; import mymodule
     &gt;&gt;&gt; mymodule.main()
     Doing stuff in module mymodule`</pre>
+<!-- more -->
 
     ## 2\. Test for “truthy” and “falsy” values(测试采用真假判断)
 
