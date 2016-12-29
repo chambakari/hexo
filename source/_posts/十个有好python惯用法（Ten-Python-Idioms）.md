@@ -1,7 +1,11 @@
 ---
 title: 十个有好python惯用法（Ten Python Idioms）
-tags: []
 date: 2015-01-09 19:48:05
+tags: 
+- python
+categories:
+- 技术人生
+- Python探案
 ---
 
 ## 1\. Make a script both importable and executable(使你的脚本可输入且可执行)

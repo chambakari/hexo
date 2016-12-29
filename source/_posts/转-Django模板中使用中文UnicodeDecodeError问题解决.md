@@ -1,7 +1,10 @@
 ---
 title: (转) Django模板中使用中文UnicodeDecodeError问题解决
-tags: []
 date: 2015-08-14 10:29:23
+tags: 
+- Django
+categories:
+- 技术人生
 ---
 
 原文请见: [某人说我技术宅](http://1992mrwang.blog.51cto.com/3265935/1123023)

@@ -34,7 +34,9 @@ Git是目前世界上最先进的开源的**分布式**版本控制系统。
 - 版本库：.git (包括暂存区和分支)
 - 暂存区：git add 之后存储的位置
 - 分支：git commit 之后存储的位置
-![](/image/git.png)
+
+![](/image/git.png)  
+
 ### 跟踪工作区的状态
 	git status: 可以随时掌握工作区的状态
 	git diff file: 如果git status告知file被修改了，该命令告知修改了什么内容
