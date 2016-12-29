@@ -1,12 +1,12 @@
 ---
 title: A Nice Paper About Mobile Data Offloading 
-date: 2014-09-18
+date: 2014-09-18 15:19:18
 tags: 
 - paper
 - mobile data offloading
 categories:
 - 所谓科研
----  
+---
 关于Mobile Data Offloading这个研究领域的Paper基本上该有的都看过了，我想即使再有也无非是那些套路，新不到哪去。同样，这篇paper也是这样，它的出发点是改进原有的利用ad hoc网络来进行offloading中耗能和延迟高的缺陷。但是这篇paper的改进方式，读后让我感觉眼前一亮，在某种程度上来说，扩宽了我的思维。特意记录下来。  
 
 在原有的offloading的方式，按是否有辅助基础设施的参与可以分为两类：一类是通过AP辅助offloading，另一类是纯粹的ad hoc方式，当两个具备通信接口的移动节点进入彼此的通信范围内时自发地完成通信，这篇paper针对的是第二种方式来进行改进。由于这种自发的通信需要节点scan周围的信道来确定是否会有与之通信的节点，这样势必会消耗大量的电量，另外，在有很多节点的情况下，节点间存在着很大的干扰，会导致整个网络的吞吐量降低。  
