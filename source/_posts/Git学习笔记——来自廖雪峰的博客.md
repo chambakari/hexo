@@ -2,6 +2,9 @@
 title: Git学习笔记——来自廖雪峰的博客
 date: 2016-12-29 15:19:18
 tags:
+- git
+categories:
+- 技术人生
 ---
 ## Git 简介
 Git是目前世界上最先进的开源的**分布式**版本控制系统。  
@@ -17,7 +20,7 @@ Git是目前世界上最先进的开源的**分布式**版本控制系统。
 
 	git config --global user.name "Your Name"
 	git config --global user.email "email@example.com"
-
+<!-- more -->
 ## Git 基础特性及常用命令
 ### 创建版本库（仓库，repository）
 	mkdir learngit
