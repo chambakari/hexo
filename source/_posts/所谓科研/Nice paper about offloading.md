@@ -1,6 +1,6 @@
 ---
 title: A Nice Paper About Mobile Data Offloading 
-date: 2014-09-18
+date: 2014-09-29
 tags: 
 - paper
 - mobile data offloading
