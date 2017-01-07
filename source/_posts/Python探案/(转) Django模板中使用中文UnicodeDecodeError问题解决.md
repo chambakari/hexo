@@ -4,7 +4,7 @@ date: 2015-08-14 10:29:23
 tags: 
 - Django
 categories:
-- Python 探案
+- Python探案
 ---
 
 原文请见: [某人说我技术宅](http://1992mrwang.blog.51cto.com/3265935/1123023)

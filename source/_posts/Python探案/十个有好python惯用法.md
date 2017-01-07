@@ -1,11 +1,12 @@
 ---
-title: 十个有好python惯用法（Ten Python Idioms）
+title: 十个有好python惯用法
 date: 2015-01-09 19:48:05
 tags: 
 - Python
 categories:
 - Python探案
 ---
+
 ## 1. Make a script both importable and executable(使你的脚本可输入且可执行)  
 
 	if __name__ == '__main__':

@@ -69,4 +69,15 @@ Python：
 
 可以这样：[Markdown](www.markdown.com)
 
-图像和连接非常相似，区别在开头加一个惊叹号：![这是一个logo图像](http://www.turingbook.com/Content/img/Turing.Gif)
+图像和连接非常相似，区别在开头加一个惊叹号：![这是一个logo图像](http://www.turingbook.com/Content/img/Turing.Gif)  
+
+----  
+## 新增  
+### 1、使用 \`代码` 表示行内代码块。 
+
+示例：
+
+让我们聊聊 `html`。
+### 2、在段落中填写 `[TOC]` 以显示全文内容的目录结构。
+
+*更多详情请看作业部落的*[**markdown语法手册**](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)

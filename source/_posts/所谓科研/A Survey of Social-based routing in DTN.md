@@ -1,5 +1,5 @@
 ---
-title: A Survey of Social-Based Routing in Delay Tolerant Networks: Positive and Negative Social Effects
+title: A Survey of Social-Based Routing in Delay Tolerant Networks With Positive and Negative Social Effects
 date: 2014-09-27
 tags:
 - paper

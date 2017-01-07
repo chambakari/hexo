@@ -1,6 +1,7 @@
 ---
 title: 上传代码到GitHub的初尝试
 date: 2014-10-02
+tags:
 - git
 - github
 categories:
