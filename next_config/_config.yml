@@ -124,8 +124,8 @@ font:
 social:
   Github: https://github.com/chambakari
   微博: http://weibo.com/chambai
-  豆瓣: http://douban.com/people/bakari
-  知乎: http://www.zhihu.com/people/chambai
+  豆瓣: http://douban.com/people/115880339/
+  知乎: http://www.zhihu.com/people/ChamBai
   #LinkLabel: Link
 
 
@@ -327,9 +327,9 @@ facebook_comments_plugin:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: HAyqmmyCVmHlYMYTHxOr94jA-gzGzoHsz 
+  app_key: n2KOoF5FtplQSzvm2tAbtsoe
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
