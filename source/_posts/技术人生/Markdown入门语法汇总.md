@@ -4,7 +4,7 @@ date: 2014-09-18
 tags:
 - Markdown
 categories:
-- 学霸笔记
+- 技术人生
 ---
   
 单个回车

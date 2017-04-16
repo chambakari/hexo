@@ -5,16 +5,18 @@
 # Site
 title: Bakari's Blog
 subtitle:
-description: 心之所向
+description: 专注于C/C++、Python、Linux、云计算
 author: bakari
 language: zh-Hans
 timezone:
+keywords: C/C++，Python，Linux，云计算，科普
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://chambakari.cn
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:category/:title/
+#permalink: :year-:month-:day-:title.html
 permalink_defaults:
 
 # Directory
@@ -73,7 +75,7 @@ deploy:
   branch: master
 
 # duoshuo_shortname
-duoshuo_shortname: chambakari
+#duoshuo_shortname: chambakari
 
 # baidu_analytics
 baidu_analytics: ec9e5906e5c69d3a170edc70a0591a43
@@ -86,5 +88,15 @@ search:
   limit: 10000
 
 # duoshuo_share
-duoshuo_share: true
+#duoshuo_share: true
 
+# Header
+# menu:
+#  Categories: categories
+#  Tags: tags
+
+# sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
