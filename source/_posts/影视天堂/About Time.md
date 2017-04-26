@@ -4,7 +4,7 @@ date: 2014-09-30
 tags:
 - 影评
 categories:
-- 电影天堂
+- 影视天堂
 ---
 
 ![](/image/abouttime.jpg)     
