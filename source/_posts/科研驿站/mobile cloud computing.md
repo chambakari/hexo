@@ -4,7 +4,7 @@ date: 2014-12-20
 tags:
 - 云计算
 categories:
-- 所谓科研
+- 科研驿站
 ---
 
 本文算是对*A survey of mobile cloud computing:architecture, applications, and approaches*这篇文章的笔记记录。主要内容如下：

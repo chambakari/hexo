@@ -5,7 +5,7 @@ tags:
 - paper
 - mobile data offloading
 categories:
-- 所谓科研
+- 科研驿站
 ---
 关于Mobile Data Offloading这个研究领域的Paper基本上该有的都看过了，我想即使再有也无非是那些套路，新不到哪去。同样，这篇paper也是这样，它的出发点是改进原有的利用ad hoc网络来进行offloading中耗能和延迟高的缺陷。但是这篇paper的改进方式，读后让我感觉眼前一亮，在某种程度上来说，扩宽了我的思维。特意记录下来。  
 
