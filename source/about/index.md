@@ -19,7 +19,7 @@ comments: false
 {% cq %}写作是一生的爱好 
 {% endcq %}
 
-{% cq %}双罗粉 
+{% cq %}锤友  
 {% endcq %}
 
 ---
