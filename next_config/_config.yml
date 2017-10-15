@@ -39,10 +39,11 @@ seo: false
 menu:
   home: /
   archives: /archives
-  categories: /categories
-  tags: /tags
+  #categories: /categories
+  #tags: /tags
   about: /about
-  nav: /nav
+  nav: /brevity-nav
+  camera: https://bakari.tuchong.com/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -61,6 +62,8 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
+  camera: camera
+  nav: sitemap
   sitemap: sitemap
   commonweal: heartbeat
 
@@ -131,9 +134,9 @@ font:
 social:
   Github: https://github.com/chambakari
   微博: http://weibo.com/chambai
-  豆瓣: http://douban.com/people/115880339/
+  简书: http://www.jianshu.com/u/ce4b46493137
   知乎: http://www.zhihu.com/people/ChamBai
-  #简书: http://www.jianshu.com/users/ce4b46493137/timeline
+  豆瓣: http://douban.com/people/115880339/
   博客园: http://www.cnblogs.com/bakari/
   #LinkLabel: Link
 
@@ -207,8 +210,10 @@ links_layout: inline
 links:
   #Title: http://example.com/
   阿里中间件: http://jm.taobao.org/
+  阿里云栖社区: https://yq.aliyun.com/
   腾云阁: https://www.qcloud.com/community
   百度前端技术学院: http://ife.baidu.com/
+  HuberyLee: https://www.huberylee.com
 
 
 # ---------------------------------------------------------------
@@ -238,8 +243,8 @@ post_meta:
 # Dependencies: https://github.com/willin/hexo-wordcount
 post_wordcount:
   item_text: true
-  wordcount: false
-  min2read: false
+  wordcount: true
+  min2read: true
 
 # Wechat Subscriber
 #wechat_subscriber:
@@ -466,6 +471,9 @@ local_search:
 # Alias: {% extlink text url "title" %}
 exturl: false
 
+reward_comment: 我知道你不会点，但万一你手抖了呢^o^
+wechatpay: /image/me.png
+#alipay: /path/to/alipay-reward-image
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
